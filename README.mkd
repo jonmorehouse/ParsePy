@@ -1,6 +1,7 @@
 parse_rest
 ==========
 
+
 **parse_rest** is a Python client for the [Parse REST
   API](https://www.parse.com/docs/rest). It provides:
 
@@ -14,6 +15,7 @@ parse_rest
   - push
   - **PLANNED/TODO**: Roles/ACLs**
   - **PLANNED/TODO**: Image/File type support
+  - **PLANNED/TODO**: Recursive/Non-Recursive querys for complex object pointer relationships
 
 
 ** for applications with access to the MASTER KEY, see details below.
